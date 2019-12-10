@@ -10,30 +10,6 @@ The Library Management System is gaining more importance as the number of its us
 
 The transactions like login, register, add, search, delete, issue, return are provided. The Library Management System stores the details like Student_ID, Name, Phone No, Semester, Department of the users who come to the library.The details of books like Book_ID, Book_Title,  subject to which it belongs, author, edition, year of publication , the total price of books that are present in the library are stored. The details of faculties are Faculty_ID, Faculty_name, gender, department and contact no. that are present in the library are stored...
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NikithkumarNiki/Hello_/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
