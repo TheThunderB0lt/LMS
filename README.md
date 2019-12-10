@@ -9,11 +9,3 @@ The Library Management System software allows to Student to borrow only 3 books,
 The Library Management System is gaining more importance as the number of its users is increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is our Library Management System its designed using Tkinter GUI in Python as frontend and SQLITE3 as backend database. 
 
 The transactions like login, register, add, search, delete, issue, return are provided. The Library Management System stores the details like Student_ID, Name, Phone No, Semester, Department of the users who come to the library.The details of books like Book_ID, Book_Title,  subject to which it belongs, author, edition, year of publication , the total price of books that are present in the library are stored. The details of faculties are Faculty_ID, Faculty_name, gender, department and contact no. that are present in the library are stored...
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NikithkumarNiki/Hello_/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
