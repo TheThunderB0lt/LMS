@@ -28,9 +28,15 @@ To be able to successfully run this desktop application there are few reuirement
   - Tkinter using
     
   ```
-  pip install Django
+  pip install Tkinter
   ```
  
+   - For images using Pillow
+    
+  ```
+  pip install pillow
+  ```
+  
  - Installing tkinter packages (Optional).
 
  - Clone the repo or fork it.
