@@ -1,0 +1,74 @@
+
+url = 'https://docs.python.org/3.3/library/tk.html'
+
+Python GUI – tkinter:
+    Out of all the GUI methods, tkinter is most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped
+    with Python. Python with tkinter outputs the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter
+    is an easy task.
+    To create a tkinter:
+
+    -Importing the module – tkinter
+    -Create the main window (container)
+    -Add any number of widgets to the main window
+    -Apply the event Trigger on the widgets.
+
+mainloop():
+    There is a method known by the name mainloop() is used when you are ready for the application to run. mainloop() is an infinite
+     loop used to run the application, wait for an event to occur and process the event till the window is not closed
+
+    -tkinter also offers access to the geometric configuration of the widgets which can organize the widgets in the parent windows.
+     There are mainly three geometry manager classes class.
+
+-pack() method:It organizes the widgets in blocks before placing in the parent widget.
+-grid() method:It organizes the widgets in grid (table-like structure) before placing in the parent widget.
+-place() method:It organizes the widgets by placing them on specific positions directed by the programmer.
+
+Button:To add a button in your application, this widget is used.
+    The general syntax is:
+    w=Button(master, option=value)
+
+    background: to set the background color when button is under the cursor.
+    foreground: to set the foreground color when button is under the cursor.
+    bg: to set he normal background color.
+    command: to call a function.
+    font: to set the font on the button label.
+    image: to set the image on the button.
+    width: to set the width of the button.
+    height: to set the height of the button
+
+    Canvas: It is used to draw pictures and other complex layout like graphics, text and widgets.
+    The general syntax is:
+    w = Canvas(master, option=value)
+
+command: to call a function.
+font: to set the font on the button label.
+image: to set the image on the widget.
+
+Entry:It is used to input the single line text entry from the user.. For multi-line text input, Text widget is used
+w=Entry(master, option=value)
+
+Frame: It acts as a container to hold the widgets. It is used for grouping and organizing the widgets. The general syntax is:
+w = Frame(master, option=value)
+
+Label: It refers to the display box where you can put any text or image which can be updated any time as per the code.
+The general syntax is:
+w=Label(master, option=value
+
+Listbox: It offers a list to the user from which the user can accept any number of options.
+The general syntax is:
+w = Listbox(master, option=value)
+
+MenuButton: It is a part of top-down menu which stays on the window all the time. Every menubutton has its own functionality. The general syntax is:
+w = MenuButton(master, option=value)
+
+Message: It refers to the multi-line and non-editable text. It works same as that of Label.
+The general syntax is:
+
+
+
+w = Message(master, option=value)
+
+Self:
+    self represents the instance of the class.By using the “self” keyword we can access the attributes and methods of the class in python.
+    It binds the attributes with the given arguments.The reason you need to use self is because Python does not use the @ syntax to refer
+    to instance attributes.
