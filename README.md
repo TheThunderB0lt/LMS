@@ -20,7 +20,7 @@ To be able to successfully run this desktop application there are few reuirement
   which you can obtain [here](https://www.python.org/downloads/).
   
   - Pycharm community 
-  which you can obtain [here](https://www.jetbrains.com/pycharm/download/#section=windows)
+  which you can obtain [here](https://www.jetbrains.com/pycharm/download/#section=windows).
   
   - Tkinter using
 
