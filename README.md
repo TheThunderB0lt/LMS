@@ -27,6 +27,7 @@ To be able to successfully run this desktop application there are few reuirement
   ```
   pip install tkinter
   ```
+  - Installing tkinter packages (Optional).
   
  ### Instructions
 
