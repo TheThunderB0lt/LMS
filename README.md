@@ -9,3 +9,33 @@ The Library Management System software allows to Student to borrow only 3 books,
 The Library Management System is gaining more importance as the number of its users is increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is our Library Management System its designed using Tkinter GUI in Python as frontend and SQLITE3 as backend database. 
 
 The transactions like login, register, add, search, delete, issue, return are provided. The Library Management System stores the details like Student_ID, Name, Phone No, Semester, Department of the users who come to the library.The details of books like Book_ID, Book_Title,  subject to which it belongs, author, edition, year of publication , the total price of books that are present in the library are stored. The details of faculties are Faculty_ID, Faculty_name, gender, department and contact no. that are present in the library are stored...
+
+## Setup Guide
+
+### Requirements
+
+To be able to successfully run this desktop application there are few reuirements that have to be satisfied and these include :
+
+- Python 3.7 or higher
+  which you can obtain [here](https://www.python.org/downloads/).
+  
+  - Pycharm community 
+  which you can obtain [here](https://www.jetbrains.com/pycharm/download/#section=windows)
+  
+  - Tkinter using
+
+  ```
+  pip install tkinter
+  ```
+  
+ ### Instructions
+
+- Clone the repo or fork it.
+
+- Move into **Library_Management_System**.
+
+## For Admin Login
+- USERNAME : Admin
+- PASSWORD : 160698
+
+You can change Username and Password by Second page.py  
