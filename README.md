@@ -29,7 +29,7 @@ To be able to successfully run this desktop application there are few reuirement
   ```
   - Installing tkinter packages (Optional).
   
- ### Instructions
+### Instructions
 
 - Clone the repo or fork it.
 
