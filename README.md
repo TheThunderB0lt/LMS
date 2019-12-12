@@ -22,20 +22,23 @@ To be able to successfully run this desktop application there are few reuirement
   - Pycharm community 
   which you can obtain [here](https://www.jetbrains.com/pycharm/download/#section=windows).
   
-  - Tkinter using
-
-  ```
-  pip install tkinter
-  ```
-  - Installing tkinter packages (Optional).
+  - Sqlite3
+  which you can obtain [here](https://sqlitebrowser.org/dl/).
   
-### Instructions
+  - Tkinter using
+    
+  ```
+  pip install Django
+  ```
+ 
+ - Installing tkinter packages (Optional).
 
-- Clone the repo or fork it.
+ - Clone the repo or fork it.
 
-- Move into **Library_Management_System**.
+ - Move into **Library_Management_System**.
 
 ## For Admin Login
+
 - USERNAME : Admin
 - PASSWORD : 160698
 
