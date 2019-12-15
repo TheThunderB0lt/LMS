@@ -32,12 +32,12 @@ To be able to successfully run this desktop application there are few reuirement
   ```
  
   - For images using Pillow
-    
+  
   ```
   pip install pillow
   ```
   
-  - Installing tkinter packages (Optional).
+ - Installing tkinter packages (Optional).
 
  - Clone the repo or fork it.
 
