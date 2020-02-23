@@ -14,34 +14,35 @@ The transactions like login, register, add, search, delete, issue, return are pr
 
 ### Requirements
 
-To be able to successfully run this desktop application there are few reuirements that have to be satisfied and these include :
+To be able to successfully run this desktop application there are few requirements that have to be 
+satisfied and these include :
 
 - Python 3.7 or higher
   which you can obtain [here](https://www.python.org/downloads/).
   
-  - Pycharm community 
+- Pycharm community 
   which you can obtain [here](https://www.jetbrains.com/pycharm/download/#section=windows).
   
-  - Sqlite3
+- Sqlite3
   which you can obtain [here](https://sqlitebrowser.org/dl/).
   
-  - Tkinter using
+- Tkinter using
     
   ```
   pip install Tkinter
   ```
  
-  - For images using Pillow
+- For images using Pillow
   
   ```
   pip install pillow
   ```
   
- - Installing tkinter packages (Optional).
+- Installing tkinter packages (Optional).
 
- - Clone the repo or fork it.
+- Clone the repo or fork it.
 
- - Move into **Library_Management_System**.
+- Move into **Library_Management_System**.
 
 ## For Admin Login
 
